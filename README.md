@@ -22,7 +22,7 @@ This project is made with React.JS but if you don't know React.JS don't worry I'
 
 6- Go to `src/App.jsx` you can see that
 
-![image](https://res.cloudinary.com/dargjxuh5/image/upload/v1603493986/logos/code_p9yck9.png)
+![image](https://res.cloudinary.com/dargjxuh5/image/upload/v1603508270/logos/code_di6kku.png)
 
 Note that the code that you must duplicate to enter your data starts from `{ /* Start card --> */}` and ends at `{/* End card <-- */}`
 
