@@ -84,7 +84,7 @@ You will also see any lint errors in the console.
 - `git commit -m 'your_github_username'`
 - `git check out -b your_github_username`
 - `git push origin your_github_username`
-  Now go tu gihubpage and create your `pull request`
+  Now go to gihubpage and create your `pull request`
 
 I will approve it in less than 24 hours
 
