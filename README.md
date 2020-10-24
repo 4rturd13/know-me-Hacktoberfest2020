@@ -16,7 +16,7 @@ This project is made with React.JS but if you don't know React.JS don't worry I'
 
 3- Open your terminal on mac or linux - cmd on windows and go to the directory where you will download the project. Example Commands `cd desktop` - `cd documents`
 
-4- With SSH write `git clone git@github.com:4rturd13/know-me.git` or with HTTPS write `git clone https://github.com/4rturd13/know-me.git`
+4- With SSH write `git clone git@github.com:<your_username/know-me.git` or with HTTPS write `git clone https://github.com/<your_username>/know-me.git`
 
 5- Insert a photo of yourself or the one you use as a profile on github into the `src/assets/images` (your photo must be called with your github username).
 
