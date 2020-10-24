@@ -49,7 +49,7 @@ github='your_github_username'
 ```
 
 To get the image of your favorite language at the end of the card, you must choose one of the languages below.
-I hope your favorite is one of these! ¯ \ _ (ツ) _ / ¯
+I hope your favorite is one of these! ¯\\_(ツ)_/¯
 
 - JavaScript
 - Python
@@ -84,7 +84,8 @@ You will also see any lint errors in the console.
 - `git commit -m 'your_github_username'`
 - `git check out -b your_github_username`
 - `git push origin your_github_username`
-  Now go to gihubpage and create your `pull request`
+
+  Now go to github page and create your `pull request`
 
 I will approve it in less than 24 hours
 
