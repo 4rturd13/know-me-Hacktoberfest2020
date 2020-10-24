@@ -1,0 +1,17 @@
+{
+  "languages": [
+    {
+      "javascript": "https://res.cloudinary.com/dargjxuh5/image/upload/v1598840970/logos/javascript_1_rztms0.svg",
+      "python": "https://res.cloudinary.com/dargjxuh5/image/upload/v1603430257/logos/python-5_anytrx.svg",
+      "java": "https://res.cloudinary.com/dargjxuh5/image/upload/v1603430255/logos/java-4_n7wmwh.svg",
+      "ruby": "https://res.cloudinary.com/dargjxuh5/image/upload/v1603430243/logos/ruby_vlzfeh.svg",
+      "c": "https://res.cloudinary.com/dargjxuh5/image/upload/v1603430253/logos/c-2975_yfvfwg.svg",
+      "c++": "https://res.cloudinary.com/dargjxuh5/image/upload/v1603430251/logos/c_mnlsoc.svg",
+      "rust": "https://res.cloudinary.com/dargjxuh5/image/upload/v1603430247/logos/rust_iqczt9.svg",
+      "c#": "https://res.cloudinary.com/dargjxuh5/image/upload/v1603430249/logos/c--4_j8tiw0.svg",
+      "dotnet": "https://res.cloudinary.com/dargjxuh5/image/upload/v1603430245/logos/dotnet_cwkagj.svg",
+      "php": "https://res.cloudinary.com/dargjxuh5/image/upload/v1603430473/logos/php-1_okkh73.svg",
+      "swift": "https://res.cloudinary.com/dargjxuh5/image/upload/v1603430504/logos/swift-15_ixgv30.svg"
+    }
+  ]
+}

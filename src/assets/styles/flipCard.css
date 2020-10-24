@@ -1,0 +1,26 @@
+.dot:nth-child(1) {
+  background-color: #ff6159;
+}
+.dot:nth-child(2) {
+  background-color: #ffbd2e;
+}
+.dot:nth-child(3) {
+  background-color: #28c940;
+}
+
+.back-code {
+  background-color: #272935;
+  color: #f6f6f4;
+}
+
+.var {
+  color: #f286c4;
+}
+
+.key {
+  color: #92d8e8;
+}
+
+.value {
+  color: #e7ee98;
+}
