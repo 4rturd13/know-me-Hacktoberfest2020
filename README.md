@@ -10,13 +10,20 @@ This project is made with React.JS but if you don't know React.JS don't worry I'
 
 ### Steps
 
-1- Fork this project
+1- Fork this project.
+
 2- Open your **terminal** on mac or linux - **cmd** on windows.
-3- Open your terminal on mac or linux - cmd on windows and go to the directory where you will download the project. Example Commands ` cd desktop`` cd documents `
+
+3- Open your terminal on mac or linux - cmd on windows and go to the directory where you will download the project. Example Commands `cd desktop` - `cd documents`
+
 4- With SSH write `git clone git@github.com:4rturd13/know-me.git` or with HTTPS write `git clone https://github.com/4rturd13/know-me.git`
+
 5- Insert a photo of yourself or the one you use as a profile on github into the `src/assets/images` (your photo must be called with your github username).
+
 6- Go to `src/App.jsx` you can see that
-![image](<[https://res.cloudinary.com/dargjxuh5/image/upload/v1603493986/logos/code_p9yck9.png](https://res.cloudinary.com/dargjxuh5/image/upload/v1603493986/logos/code_p9yck9.png)>)
+
+![image](https://res.cloudinary.com/dargjxuh5/image/upload/v1603493986/logos/code_p9yck9.png)
+
 Note that the code that you must duplicate to enter your data starts from `{ /* Start card --> */}` and ends at `{/* End card <-- */}`
 
 > Make sure to duplicate the code from the start card comment to the end card so that the others do not fall into errors and their work is damaged
