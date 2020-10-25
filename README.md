@@ -1,5 +1,7 @@
 # HACKTOBERFEST 2020
 
+> Readme en Español en el archivo **README-ES.md**
+
 ![image](https://res.cloudinary.com/dargjxuh5/image/upload/v1603492320/logos/HF2020_Events_640x360_Centered_k5avto.png)
 
 ## This project is for beginners
