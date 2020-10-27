@@ -80,9 +80,9 @@ You will also see any lint errors in the console.
 
 9 - In your terminal or cmd write
 
-- `git add .`
+- `git add -A`
 - `git commit -m 'your_github_username'`
-- `git check out -b your_github_username`
+- `git checkout -b your_github_username`
 - `git push origin your_github_username`
 
   Now go to github page and create your `pull request`
